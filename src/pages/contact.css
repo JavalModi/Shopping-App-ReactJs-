@@ -1,0 +1,88 @@
+.con{
+    text-align: center;
+    color: #80d6a3;
+    margin-bottom: 40px;
+}
+.section02{
+    padding-bottom: 50px;
+}
+
+.icon{
+    color: #80d6a3;
+}
+
+.icon:hover{
+    opacity: 0.5;
+}
+
+.s1form{
+    border: 1px solid #80d6a3;
+    width: 400px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+}
+
+.s1txt{
+    margin:10px;
+    height: 50px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 250px;
+    color: black;    
+    
+}
+
+.tarea1{
+    border-radius: 10px;
+    padding: 10px;
+    margin:10px;
+}
+.s1btn a {
+    text-decoration: none;
+    color: white;
+}
+.s1btn{
+    border-radius: 10px;
+    padding: 10px;
+    margin:10px;
+    background-color: #80d6a3;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border: none;
+}
+
+.s1btn:hover{
+    background-color:#EDAF4A ;
+}
+
+.s1btn a:hover{
+    color: #552525;
+}
+
+.section02 h2{
+    font-size: 50px;
+    color: #388087;
+}
+
+.section02 p{
+    font-size: 20px ;
+}
+
+.s9icon{
+    font-size: 40px;
+    padding: 10px;
+}
+.i1{
+    font-size: 100px;
+}
+#i1:hover {
+    /* background-image: linear-gradient(
+      45deg,
+    );
+    transition: 0.2s ease;
+    color: #fff;
+    object-fit: cover; */
+    
+  }
